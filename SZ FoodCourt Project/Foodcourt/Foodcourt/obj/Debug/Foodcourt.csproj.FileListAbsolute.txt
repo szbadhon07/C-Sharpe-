@@ -1,0 +1,14 @@
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\bin\Debug\Foodcourt.exe.config
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\bin\Debug\Foodcourt.exe
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\bin\Debug\Foodcourt.pdb
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.csprojResolveAssemblyReference.cache
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.Adminlogin.resources
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.Properties.Resources.resources
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.csproj.GenerateResource.Cache
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.exe
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.pdb
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.Adminhome.resources
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.Additemtypes.resources
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.Additems.resources
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.Updatestock.resources
+F:\SZ FoodCourt Project\Foodcourt\Foodcourt\obj\Debug\Foodcourt.Addsalesperson.resources
